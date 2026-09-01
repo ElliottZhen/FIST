@@ -1,5 +1,6 @@
 
 # FISTrack 
-### FIST has been submitted to a journal for peer review. Once the paper is accepted, our code will be open-sourced.
+
+This work has been accepted by the Pattern Recognition. We are in the process of organizing and optimizing the source code and they will be open sourced soon.
 
 Raw Results in Google Cloud Drive:[[Raw Results](https://drive.google.com/drive/folders/1lGZKFUZoNLsV6Rr0U9gnaXV_RNrPD0_u)]
